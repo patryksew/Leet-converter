@@ -1,0 +1,10 @@
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\bin\Debug\Leet converter.exe.config
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\bin\Debug\Leet converter.exe
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\bin\Debug\Leet converter.pdb
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\obj\Debug\Leet converter.csprojResolveAssemblyReference.cache
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\obj\Debug\Leet converter.exe
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\obj\Debug\Leet converter.pdb
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\bin\Debug\Leet converter.exe.manifest
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\bin\Debug\Leet converter.application
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\obj\Debug\Leet converter.exe.manifest
+d:\biblioteki\dokumenty\visual studio 2017\Projects\Leet converter\obj\Debug\Leet converter.application
