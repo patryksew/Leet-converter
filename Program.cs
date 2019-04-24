@@ -11,7 +11,7 @@ namespace Leet_converter {
              int[] characters = new int[1];
              int i = 0, charNow;
 
-             Console.Write("Podaj ciąg liter do konwersji (używaj wielkich liter): \n");
+             Console.Write("Enter CAPITAL letters to convert): \n");
              while (true) {
                  Array.Resize<int>(ref characters, i + 1);
                  charNow = Console.Read();
