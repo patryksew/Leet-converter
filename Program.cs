@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Leet_converter {
     class Program { 
-        static void Main() {
+        static void Main(string[] args) {
              string word = "";
              int[] characters = new int[1];
              int i = 0, charNow;
@@ -62,7 +62,7 @@ namespace Leet_converter {
                     ch = "|<";
                     break;
                     case 76:
-                    ch = "|_";
+                    ch = "£";
                     break;
                     case 77:
                     ch = "|V|";
@@ -114,8 +114,8 @@ namespace Leet_converter {
                 word += ch;
             }
             Console.WriteLine(word);
-
-            Main();
+            
+            Console.ReadKey();
         }
     }
 }
